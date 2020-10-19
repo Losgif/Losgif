@@ -11,7 +11,7 @@ As long as you remember her, you are not alone.<br/><br/>
  </samp>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=losgif)
+![](https://visitor-badge.laobi.icu/badge?page_id=losgif)
 
 <!--
 **losgif/losgif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
